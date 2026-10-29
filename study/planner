@@ -1,0 +1,55 @@
+Day 1: APIM fundamentals
+- Understand APIs, operations, backends, products and subscriptions
+- Explain the request lifecycle and gateway versus management plane
+
+Day 2: Policies and routing
+- Practice inbound, backend, outbound and on-error policies
+- Create a backend mapping and a URL rewrite example
+
+Day 3: API security
+- Study OAuth 2.0, JWT, Entra ID, mTLS and subscription keys
+- Practice token validation and managed identity concepts
+
+Day 4: Networking
+- Draw Application Gateway → APIM → private backend
+- Review DNS, TLS, private endpoints, routing and NSG/firewall troubleshooting
+
+Day 5: MuleSoft migration
+- Build an API inventory template and capability mapping
+- Explain gateway-only versus integration-runtime migration
+
+Day 6: Terraform and CI/CD
+- Plan APIM infrastructure as code
+- Design a pipeline for API definitions and policies across environments
+
+Day 7: Hands-on APIM
+- Import a sample OpenAPI API
+- Configure a policy and test successful and unsuccessful requests
+
+Day 8: Key Vault and identity
+- Configure a secure certificate or secret reference in a test environment
+- Review managed identity, RBAC and rotation
+
+Day 9: Troubleshooting and monitoring
+- Practice 401, 403, 429, 502 and 504 scenarios
+- Review metrics, diagnostics, alerts and correlation IDs
+
+Day 10: Availability and performance
+- Study capacity, throttling, caching and timeout considerations
+- Explain recovery and multi-region design trade-offs
+
+Day 11: Logic Apps and Functions
+- Learn orchestration versus custom code
+- Map common Mule flows to Azure integration options
+
+Day 12: Messaging and B2B
+- Compare Service Bus, Event Grid and Event Hubs
+- Review Integration Accounts, EDI and partner integration
+
+Day 13: Mock migration design
+- Design a phased migration of 100–200 APIs
+- Include network, security, automation, testing and rollback
+
+Day 14: Mock interview
+- Answer the 12 questions without notes
+- Present an architecture diagram and defend your design choices

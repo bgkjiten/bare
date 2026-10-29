@@ -1,0 +1,84 @@
+12. Official resources — study in this order
+These are the resources I recommend bookmarking. Focus on the concepts and hands-on exercises rather than reading every page end to end.
+
+
+
+
+
+
+
+
+
+1. APIM fundamentals
+
+Understand the gateway, management plane, developer portal, API configuration and service tiers.
+
+Read Microsoft Learn — Key concepts
+
+
+
+
+
+
+
+
+
+
+
+
+2. APIM policies
+
+Study policy inheritance, JWT validation, rate limits, routing and error handling.
+
+Read the policy guide
+
+
+
+
+
+
+
+
+
+
+
+
+3. APIM architecture and networking
+
+Review private connectivity, Application Gateway integration, backend access and enterprise network design.
+
+Browse APIM networking and architecture documentation
+
+
+
+
+
+
+
+
+
+
+
+
+4. Import and publish APIs
+
+Practice importing an OpenAPI specification, configuring operations and testing a backend.
+
+Read the API import guide
+
+
+
+
+
+
+
+
+
+
+
+
+5. Terraform and APIM automation
+
+Learn how to provision APIM resources and automate API configuration deployment.
+
+Explore APIM configuration automation

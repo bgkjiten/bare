@@ -1,0 +1,8 @@
+You already have relevant platform skills. Your main preparation gap is likely the depth of APIM policies, API lifecycle management, and migration design. Be honest about your hands-on experience, but demonstrate that you understand how to deliver the platform safely.
+
+Here is a strong way to introduce your approach:
+My focus as a platform engineer is to provide a secure, scalable and automated API platform for application and integration teams. For a MuleSoft-to-Azure APIM migration, I would start by assessing the existing API contracts, policies, consumers and integration dependencies. I would establish the Azure landing zone with the right networking, identity, certificates, monitoring and infrastructure automation. Then I would migrate the gateway configuration in phases, validate policy parity and backend connectivity, and automate deployments through CI/CD. I would also identify MuleSoft-specific orchestration or connector functionality that cannot simply be replaced by APIM and work with the integration teams on the appropriate Azure alternatives. Finally, I would use controlled cutover, observability and rollback procedures to minimize business disruption.
+
+Don't claim that you have implemented a migration if you have only studied the concepts. Instead, explain the architecture you would propose and the checks you would perform.
+
+Your next best step: build one small APIM lab. Import a sample API, configure JWT validation or a rate limit, route it to a backend, secure the backend connection, and deploy the configuration through a simple pipeline. That exercise will help connect nearly all your existing infrastructure knowledge to the job description
